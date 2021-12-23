@@ -1,5 +1,4 @@
 // Exercise2.java
-// An enhancement to Exercise 1. A java program that generates N x N table of random ASCII characters. Each table contains a key-value pair.
 package com.exercise.two;
 
 import java.io.FileWriter;
